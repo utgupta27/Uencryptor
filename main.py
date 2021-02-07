@@ -1,14 +1,30 @@
-from tkinter import *
+"For GUI interface importing the Tkinter library modules/components."
+"'tk' for window frame containing minimise,maximise & close buttons"
+"'Frame' for grouping the different interface contents into a single entity"
+"'StringVar' used to store string value"
+"'Button' used for different customised buttons through which users interact with the program"
+"'RadioButton' used for selecting one index values among the others"
+"'HORIZONTAL' this tkinter-object is used for the horizontal orientation of the progress bar"
+from tkinter import Tk,Frame,Label,StringVar,IntVar,Entry,Button,Radiobutton,HORIZONTAL
+"Importing the 'ttk' Theme for the progress bar"
 from tkinter import ttk
+
 from func import Functions
 
 
 class Driver():
-
+    """
+        This class contains all the member funcions that are related with tkinter library
+        so all the user interactable elements are defined here.
+    """
     # def updateProgressBar(self,value):
     #     self.progressBar['value'] = value
 
     def getAddress(self):
+        """
+            "getAddress" function is used to fetch all the address of the selected files
+            and diaplays the selected files inside a frame
+        """
         self.filesAddress = Functions().getFilesAddress()
         self.displaySelectedFiles.config(text = "")
         self.root.update()
