@@ -15,3 +15,7 @@
     - Realtime Progress Bar
     - New More interactive user interface using PyQT5
 
+## SnapShots
+![alt text](https://github.com/utgupta27/Uencryptor/blob/master/images/Screenshot%20from%202021-02-07%2023-40-13.png)
+![alt text](https://github.com/utgupta27/Uencryptor/blob/master/images/Screenshot%20from%202021-02-07%2023-43-56.png)
+![alt text](https://github.com/utgupta27/Uencryptor/blob/master/images/Screenshot%20from%202021-02-07%2023-41-56.png)
