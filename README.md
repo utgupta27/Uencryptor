@@ -16,17 +16,17 @@
 - New More interactive user interface using PyQT5
     
 ## Dependencies
-    >To add these dependencies, Run the commands given below -
+    - To add these dependencies, Run the commands given below -
         Type command: $pip install python3-tkinter
         Type command: $pip install pyAesCrypt
     
 ## Install Instructions 
-    >Install the above dependencies using pip
-    >Clone this repository,
+    - Install the above dependencies using pip
+    - Clone this repository,
         Type command : $git clone https://github.com/utgupta27/Uencryptor
-    >Now goto the source code directory i.e, Uencryptor>>src, 
+    - Now goto the source code directory i.e, Uencryptor>>src, 
         Type command: $cd Uencryptor/src
-    >To run the program, 
+    - To run the program, 
         Type command: $python3 main.py
 
 ## SnapShots
