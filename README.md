@@ -22,9 +22,12 @@
     
 ## Install Instructions 
     Install the above dependencies using pip
-    clone this repository, Type command : $git clone https://github.com/utgupta27/Uencryptor
-    Now goto the source code directory i.e, Uencryptor>>src, Type command: $cd Uencryptor/src
-    To run the program, Type command: $python3 main.py
+    clone this repository,
+        Type command : $git clone https://github.com/utgupta27/Uencryptor
+    Now goto the source code directory i.e, Uencryptor>>src, 
+        Type command: $cd Uencryptor/src
+    To run the program, 
+        Type command: $python3 main.py
 
 ## SnapShots
 ![alt text](https://github.com/utgupta27/Uencryptor/blob/master/images/Screenshot%20from%202021-02-07%2023-40-13.png)
